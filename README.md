@@ -13,6 +13,9 @@ Type : Console
 If an exception occurs while executing step 3, check whether the antivirus is checking the file.
 3번을 실행도중 예외가 발생한다면 백신이 파일을 검사하고 있는지 확인 하십시오.
 
+링크를 클릭하시면 DownGit으로 이동하여 Zip 파일로 자동으로 다운로드 됩니다.
+Clicking on the link will take you to DownGit and automatically download as a Zip file.
+
 2023-10-20 출시
 
 Download : https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/dkscnrdls/ComputerInfoProgram/tree/84508e62bafbd6e4f5ed858d9cf230b8e9a2346b/Program
