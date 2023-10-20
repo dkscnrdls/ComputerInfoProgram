@@ -15,6 +15,8 @@ If an exception occurs while executing step 3, check whether the antivirus is ch
 
 2023-10-20 출시
 
+Download : https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/dkscnrdls/ComputerInfoProgram/tree/84508e62bafbd6e4f5ed858d9cf230b8e9a2346b/Program
 
 2023-10-20 Version 1.5
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/dkscnrdls/ComputerInfoProgram/tree/74ee8c3da95c306b2b0059e4c5645f88c1bb1f3c/Version1.5
+
+Download : https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/dkscnrdls/ComputerInfoProgram/tree/74ee8c3da95c306b2b0059e4c5645f88c1bb1f3c/Version1.5
